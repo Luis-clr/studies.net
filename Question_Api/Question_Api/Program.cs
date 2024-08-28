@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using Question_Api;
+
+
+Question1 question1 = new Question1(); 
+

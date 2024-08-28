@@ -1,0 +1,15 @@
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\bin\Debug\net8.0\Question_Api.exe
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\bin\Debug\net8.0\Question_Api.deps.json
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\bin\Debug\net8.0\Question_Api.runtimeconfig.json
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\bin\Debug\net8.0\Question_Api.dll
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\bin\Debug\net8.0\Question_Api.pdb
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.AssemblyInfoInputs.cache
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.AssemblyInfo.cs
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.csproj.CoreCompileInputs.cache
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.sourcelink.json
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.dll
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\refint\Question_Api.dll
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.pdb
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\Question_Api.genruntimeconfig.cache
+C:\Users\LuisRibeiro\Documents\Estudos\studies.net\Question_Api\Question_Api\obj\Debug\net8.0\ref\Question_Api.dll
